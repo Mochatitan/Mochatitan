@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 I am a primarily java programmer but i also code javascript regularly.
-I code as a hobby, and as the Lead Programmer of FRC robotics team 6894 Iced Java 🧊
+I code as a hobby, and as the Lead Programmer of FRC robotics team 6894 Iced Java 🧊☕🤖
 
 ## 🔭 I’m currently working on
 - Chess website using threejs with a java backend
