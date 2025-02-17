@@ -8,8 +8,8 @@ I code as a hobby, and as the Lead Programmer of FRC robotics team 6894 Iced Jav
 - Java program that converts an image to ascii art
 - Advanced multiplayer game using socket.io
 ## 🌱 I’m currently learning
-- C++
-- React
+- C#
+- Typescript
 ## 👯 I’m looking to collaborate on
 Anything you want, im very open to helping and i could use the motivation to get work done
 ## 📫 How to reach me:
