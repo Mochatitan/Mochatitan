@@ -6,7 +6,7 @@ I code as a hobby, and as the Lead Programmer of FRC robotics team 6894 Iced Jav
 ## 🔭 I’m currently working on
 - Chess website using threejs with a java backend
 - Java program that converts an image to ascii art
-- chat application using nodejs
+- Advanced multiplayer game using socket.io
 ## 🌱 I’m currently learning
 - C++
 - React
